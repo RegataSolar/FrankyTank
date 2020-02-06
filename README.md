@@ -1,6 +1,7 @@
+
 # Kit monotipo para la Carrera Solar
 
-![alt_tag](https://raw.githubusercontent.com/OPRobots/FrankyTank/master/Images/Franky_Tank_v5.jpg)
+![alt_tag](https://raw.githubusercontent.com/RegataSolar/Kit-Monotipo-Carrera-Solar/master/Images/Franky_Tank_v5.jpg)
 ## Materiales necesarios
 Para poder montar correctamente este kit para Coche Solar, serán imprescindibles los siguientes materiales:
 - Panel solar de 50W
@@ -15,6 +16,10 @@ Para poder montar correctamente este kit para Coche Solar, serán imprescindible
 
 Están todos los diseños de las piezas 3D del kit en la carpeta [Piezas](Piezas). Nosotros las hemos impreso en PLA, con capas de 0.15~0.20mm. Aún así, los tres engranajes ([Piñon](Piezas/Piñon.stl), [Engranaje Medio](Piezas/Engranaje%20medio.stl), [Engranaje Rueda](Piezas/Engranaje%20Rueda.stl)) recomendamos imprimirlos en un material más resistente como el nylon.
 No olvides imprimir dos [ruedas traseras](Piezas/Rueda%20trasera.stl)!
+
+## Electrónica
+Gracias a [SCRobotics](https://scrobotics.es/), disponemos de una completa electrónica para el Kit que permitirá sacar todo el rendimiento al panel solar. Toda la información de esta placa, junto con la teoría y diagramas para conectarla está disponible en este otro repositorio, [https://github.com/RegataSolar/Solar_MPPT_board](https://github.com/RegataSolar/Solar_MPPT_board).
+![alt_tag](https://raw.githubusercontent.com/RegataSolar/Kit-Monotipo-Carrera-Solar/master/Images/Montaxe_basico.png)
 
 ## Cómo montar el kit 🔧
 Estamos elaborando un videotutorial con instrucciones detalladas. En cuanto esté listo lo publicaremos.
