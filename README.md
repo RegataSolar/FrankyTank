@@ -9,6 +9,7 @@ Para poder montar correctamente este kit para Coche Solar, serán imprescindible
 - [ESC](https://en.wikipedia.org/wiki/Electronic_speed_control) para el motor
 - Servomotor para la dirección
 - Mando a distancia y receptor
+- Rueda de patín
 
 ## Piezas 3D 🧱
 
