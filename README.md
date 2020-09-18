@@ -22,14 +22,14 @@ Gracias a [SCRobotics](https://scrobotics.es/), disponemos de una completa elect
 ![alt_tag](https://raw.githubusercontent.com/RegataSolar/Kit-Monotipo-Carrera-Solar/master/Images/Montaxe_basico.png)
 
 ## Cómo montar el kit 🔧
-Estamos elaborando un videotutorial con instrucciones detalladas. En cuanto esté listo lo publicaremos.
+Hemos creado una playlist con todas las instrucciones necesarias para el montaje del kit. [https://www.youtube.com/playlist?list=PLayLTatv7HuBQLWuq9PAt1MpWq7BvLqSC](https://www.youtube.com/playlist?list=PLayLTatv7HuBQLWuq9PAt1MpWq7BvLqSC)
 
 ## Advertencias! ⚠️
 Entre el engranaje medio y el soporte del mismo es importantísimo poner una arandela o algún otro espaciador. De no hacerlo, al rozar plástico contra plástico y debido a las altas temperaturas conseguiremos que se fundan ambas piezas en una sola.
 
 ## Mejoras 📈
 El kit en sí mismo proporciona un coche muy básico con el que, aunque nos permite participar fácilmente en la Carrera Solar, difícilmente conseguiremos ganar con él. 
-Precisamente buscando la curiosidad y aprendizaje de cada uno de los equipos participantes, os animamos efusivamente a mejorar todo aquello que veáis necesario y que os pueda permitir terminar la Carrera en buena posición.
+Precisamente buscando la curiosidad y aprendizaje de cada uno de los equipos participantes, os animamos a mejorar todo aquello que veáis necesario y que os pueda permitir terminar la Carrera en buena posición.
 Os damos algunas pistas de cosas a mejorar:
 - El panel no es rígido, y una vez montado tiembla como un flan.
 - Esas ruedas impresas en 3D... mejor que no se encuentren con un terreno deslizante o parecerá esto la Carrera de Patinaje Solar.
